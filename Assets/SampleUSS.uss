@@ -1,0 +1,31 @@
+/* SampleUSS.uss */
+
+.left-top {
+    position: absolute;
+    left: 32px;
+    top: 32px;
+}
+
+.right-top {
+    position: absolute;
+    right: 32px;
+    top: 32px;
+}
+
+.left-bottom {
+    position: absolute;
+    left: 32px;
+    bottom: 32px;
+}
+
+.container {
+    margin: auto;
+}
+
+#GameTitle {
+    font-size: 72px;
+}
+
+#BtnGroup {
+    top: 50px;
+}
